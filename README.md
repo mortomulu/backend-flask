@@ -10,9 +10,10 @@ A brief description of your project.
 
 1. Clone this repository:
 
-````bash
+```bash
    git clone <repository-url>
    cd <project-directory>
+```
 
 2. Create and activate a virtual environment:
 
@@ -22,14 +23,16 @@ python -m venv venv
 source venv/bin/activate
 # On Windows:
 venv\Scripts\activate
+```
 
 3. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
 4. Run on local
 
-bash
+```bash
 python main.py
-````
+```
