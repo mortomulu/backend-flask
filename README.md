@@ -11,8 +11,8 @@ A brief description of your project.
 1. Clone this repository:
 
 ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/mortomulu/backend-flask.git
+   cd backend-flask
 ```
 
 2. Create and activate a virtual environment:
